@@ -78,7 +78,6 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 <img width="1917" height="841" alt="Screenshot 2026-11-02 160736" src="https://github.com/user-attachments/assets/cf045899-c255-4128-8881-cc1bc8e75157" />
 
-<img width="1032" height="695" alt="image" src="https://github.com/user-attachments/assets/5dc4225f-a051-4d17-ac8a-54968c52e7bd" />
 
 
 
